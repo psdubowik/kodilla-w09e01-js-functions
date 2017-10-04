@@ -1,0 +1,23 @@
+{
+  "name": "kodillaFE_week09ex01_js_functions",
+  "version": "1.0.0",
+  "description": "Functions in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psdubowik/kodilla-w09e01-js-functions.git"
+  },
+  "keywords": [
+    "js",
+    "function"
+  ],
+  "author": "PSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psdubowik/kodilla-w09e01-js-functions/issues"
+  },
+  "homepage": "https://github.com/psdubowik/kodilla-w09e01-js-functions#readme"
+}
